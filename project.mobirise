@@ -136,14 +136,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-1"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">меню</a> ",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-5"
         }
       ]
     }
