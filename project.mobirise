@@ -44,12 +44,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/p81130-102836-2000x1483.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p81130-102836-2000x1483-800x593.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p81130-102837-2000x1483.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p81130-102837-2000x1483-800x527.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/p81130-102428-2000x1483.jpg",
@@ -65,7 +65,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
