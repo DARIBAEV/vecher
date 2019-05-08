@@ -5,7 +5,8 @@
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -44,8 +45,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/p81130-102837-2000x1483.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p81130-102837-2000x1483-800x527.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p81130-102839-2000x1483.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p81130-102839-2000x1483-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
